@@ -3,10 +3,10 @@
    files in this folder to that repo. That's the only edit required. */
 window.GITHUB_CONFIG = {
   // Your GitHub username or organization name.
-  owner: 'YOUR_GITHUB_USERNAME',
+  owner: 'Anindita006',
 
   // The repository that hosts this dashboard (and will store the data files).
-  repo: 'YOUR_REPO_NAME',
+  repo: 'TPWODL-HLF-Feeders-',
 
   // The branch everyone's page reads from, and uploads commit to.
   branch: 'main',
